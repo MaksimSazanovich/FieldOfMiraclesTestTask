@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffcfa3d1e43c459a903ef1b86d0653ac, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  <WordMinLength>k__BackingField: 5
+  <NumberOfAttempts>k__BackingField: 10
+  wordsGenerator: {fileID: 2881039812423048453, guid: 6dbc7d5aef1481b4499b947890ba754c, type: 3}
+  availableWordMinLength: 1
+  availableWordMaxLength: 14
